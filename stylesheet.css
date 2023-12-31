@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+}
+
+#list {
+    background-color: #333;
+    padding: 1rem;
+    margin-top: 1rem;
+
+}
+
+.card {
+    padding: 1rem;
+    background-color: white;
+    border: 1px solid black;
+    cursor: move;
+}
+
+.ghost {
+    background-color: lightblue;
+}
